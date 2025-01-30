@@ -1,49 +1,78 @@
+Grass App
+_________________________________________________________________________________________________________________________
 Goals
-This aims to educate users about grasses we commonly see everywhere and we do not know it has medicinal properties, ensuring they are informed about safe and beneficial herbal remedies. It aligns with the United Nations' Sustainable Development Goals (SDGs) by promoting health and environmental sustainability.
+
+This aims to educate users about grasses we commonly see everywhere and we do not know it has medicinal properties, 
+ensuring they are informed about safe and beneficial herbal remedies. It aligns with the United Nations' Sustainable
+Development Goals (SDGs) by promoting health and environmental sustainability.
 _________________________________________________________________________________________________________________________
 Roles
-The project will be in a mobile/web application that provides reliable information on medicinal grasses from articles that are published in reliable research websites like Scientific Journals on Herbal Medicine, WHO Guidelines on Traditional Medicine, Botanical Research Papers, etc. It ensures that users have access to accurate knowledge backed by research, preventing the misuse of toxic plants.
+
+The project will be in a mobile/web application that provides reliable information on medicinal grasses from articles that
+are published in reliable research websites like Scientific Journals on Herbal Medicine, WHO Guidelines on Traditional Medicine,
+Botanical Research Papers, etc. It ensures that users have access to accurate knowledge backed by research, preventing the misuse
+of toxic plants.
 _________________________________________________________________________________________________________________________
 Audience
-The application will be designed for the sake of herbal medicine enthusiasts, traditional healers, farmers, health-conscious individuals, and researchers who want to learn about the medicinal properties of common grasses.
+
+The application will be designed for the sake of herbal medicine enthusiasts, traditional healers, farmers, health-conscious 
+individuals, and researchers who want to learn about the medicinal properties of common grasses.
 _________________________________________________________________________________________________________________________
 Situation
-There is a lack of awareness regarding the medicinal benefits of certain grasses, and many people rely on unverified herbal remedies. The application provides a safe and educational platform to promote the responsible use of herbal medicine while ensuring sustainability and conservation.
+
+There is a lack of awareness regarding the medicinal benefits of certain grasses, and many people rely on unverified herbal 
+remedies. The application provides a safe and educational platform to promote the responsible use of herbal medicine while ensuring 
+sustainability and conservation.
 _________________________________________________________________________________________________________________________
-Objectives
-This application is designed to educate users about the medicinal benefits of common grasses while ensuring that only safe and research-backed herbs are included.
-_________________________________________________________________________________________________________________________
-Key SDG Targets
+Products/Performance/Output
+
+1. Objectives
+
+This application is designed to educate users about the medicinal benefits of common grasses while ensuring that only safe and
+research-backed herbs are included.
+
+2. Key SDG Targets
+
 There are alot of SDG that can be relate to the proposal but i think this 2 was the most related to it.
 * SDG 3 - Good Health and Well being
 * SDG 15 - Life on Land
-_________________________________________________________________________________________________________________________
-Key Features
+
+3. Key Features
+
 * Grasses Database – Provides descriptions, images, and medicinal benefits of different grasses.
 * Toxicity & Safety Guide – Highlights safe herbs while warning against toxic look-alike plants.
 * Search & Filter – Users can search by plant name, symptoms, or medicinal benefits.
 * AI Camera Plant Identifier – Uses image recognition technology to help users identify grasses.(Lisod ni Maam imagine lang sah)
 * Community Forum – Allows users to share experiences, ask questions, and contribute knowledge.
 * Offline Access – Ensures users can access data even without an internet connection. Limited to downloaded plant information only.
-_________________________________________________________________________________________________________________________
-Technical Architecture
+
+4. Technical Architecture
+
 The application is developed using modern technology stacks to ensure efficiency and accuracy:
 
 Access the diagram in this link: https://miro.com/app/board/uXjVLmAfnfQ=/?share_link_id=594240598400
-_________________________________________________________________________________________________________________________
-Research and Evidence
-The app’s content is based on scientific research and verified sources, including:
 
-* Scientific Journals on Herbal Medicine
-* WHO Guidelines on Traditional Medicine
-* Botanical Research Papers
-* Sustainable Harvesting Practices
-* Existing Plant Identification Technologies
-* Other reliable sites
+5. Research and Evidence
 
-These are some research that are expected to be included:
+RRL:
+Medicinal grasses have been used for a long time to help people with sickness and wounds. Gupta and Ranjan (2020) said that some
+grasses have healing powers and can help with fever, stomach problems, and infections. Saha et al. (2014) found that some tribal 
+people in India use grasses for cuts, coughs, and skin problems. Some examples of medicinal grasses are:
+
+Cynodon dactylon (Bermuda grass) – used for stomach infections and wound healing.
+Cymbopogon citratus (Lemongrass) – helps with fever, digestion, and cough.
+Vetiveria zizanioides (Vetiver grass) – used for skin infections and cooling the body.
+
+The United Nations (UN) 2030 Sustainable Development Goals (SDGs) want people to take care of nature while helping others. Kumar et al. (2023)
+said that using medicinal grasses can support SDG 3 (Good Health and Well-being) by giving natural medicine options and SDG 15 (Life on Land) 
+by protecting plants. Technology is also important. They also explained that AI and apps can help people learn which plants are 
+safe to use. The study also showed that cloud computing helps people get information fast and easy. If an app is made for medicinal
+grasses, it can help people learn safely and use plants wisely, while keeping nature safe for the future.
+
+References:
+
 * Medicinal Uses of Grasses by the Tribal People in West Bengal
-Link: https://www.crdeepjournal.org/wp-content/uploads/2014/07/Vol-3-3-1-IJBAS.pdf
+Link: http://www.crdeepjournal.org/wp-content/uploads/2014/07/Vol-3-3-1-IJBAS.pdf
 
 * Medicinal Grasses of India 
 Link: https://www.researchgate.net/profile/Sanjeet-Kumar-16/publication/374844305_Medicinal_Grasses_of_India_Volume_I/links/6531dff024bbe32d9a5369e6/Medicinal-Grasses-of-India-Volume-I.pdf
@@ -52,3 +81,12 @@ Link: https://www.researchgate.net/profile/Sanjeet-Kumar-16/publication/37484430
 Link: https://web.archive.org/web/20220303153527id_/https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/PINSA_2020_Art65.pdf
 
 * Other reliable resources found in reliable sites
+
+The app’s content will be based on scientific research and verified sources, including:
+
+* Scientific Journals on Herbal Medicine
+* WHO Guidelines on Traditional Medicine
+* Botanical Research Papers
+* Sustainable Harvesting Practices
+* Existing Plant Identification Technologies
+* Other reliable sites
