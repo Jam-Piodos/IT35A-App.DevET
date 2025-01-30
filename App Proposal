@@ -1,0 +1,53 @@
+Goals
+This aims to educate users about grasses we commonly see everywhere and we do not know it has medicinal properties, ensuring they are informed about safe and beneficial herbal remedies. It aligns with the United Nations' Sustainable Development Goals (SDGs) by promoting health and environmental sustainability.
+_________________________________________________________________________________________________________________________
+Roles
+The project will be in a mobile/web application that provides reliable information on medicinal grasses from articles that are published in reliable research websites like Scientific Journals on Herbal Medicine, WHO Guidelines on Traditional Medicine, Botanical Research Papers, etc. It ensures that users have access to accurate knowledge backed by research, preventing the misuse of toxic plants.
+_________________________________________________________________________________________________________________________
+Audience
+The application will be designed for the sake of herbal medicine enthusiasts, traditional healers, farmers, health-conscious individuals, and researchers who want to learn about the medicinal properties of common grasses.
+_________________________________________________________________________________________________________________________
+Situation
+There is a lack of awareness regarding the medicinal benefits of certain grasses, and many people rely on unverified herbal remedies. The application provides a safe and educational platform to promote the responsible use of herbal medicine while ensuring sustainability and conservation.
+_________________________________________________________________________________________________________________________
+Objectives
+This application is designed to educate users about the medicinal benefits of common grasses while ensuring that only safe and research-backed herbs are included.
+_________________________________________________________________________________________________________________________
+Key SDG Targets
+* 3 - Good Health and Well being
+* 15 - Life on Land
+_________________________________________________________________________________________________________________________
+Key Features
+* Grasses Database – Provides descriptions, images, and medicinal benefits of different grasses.
+* Toxicity & Safety Guide – Highlights safe herbs while warning against toxic look-alike plants.
+* Search & Filter – Users can search by plant name, symptoms, or medicinal benefits.
+* AI Camera Plant Identifier – Uses image recognition technology to help users identify grasses.(Lisod ni Maam imagine lang sah)
+* Community Forum – Allows users to share experiences, ask questions, and contribute knowledge.
+* Offline Access – Ensures users can access data even without an internet connection. Limited to downloaded plant information only.
+_________________________________________________________________________________________________________________________
+Technical Architecture
+The application is developed using modern technology stacks to ensure efficiency and accuracy:
+
+Access the diagram in this link: https://miro.com/app/board/uXjVLmAfnfQ=/?share_link_id=594240598400
+_________________________________________________________________________________________________________________________
+Research and Evidence
+The app’s content is based on scientific research and verified sources, including:
+
+* Scientific Journals on Herbal Medicine
+* WHO Guidelines on Traditional Medicine
+* Botanical Research Papers
+* Sustainable Harvesting Practices
+* Existing Plant Identification Technologies
+* Other reliable sites
+
+These are some research that are expected to be included:
+* Medicinal Uses of Grasses by the Tribal People in West Bengal
+Link: https://www.crdeepjournal.org/wp-content/uploads/2014/07/Vol-3-3-1-IJBAS.pdf
+
+* Medicinal Grasses of India 
+Link: https://www.researchgate.net/profile/Sanjeet-Kumar-16/publication/374844305_Medicinal_Grasses_of_India_Volume_I/links/6531dff024bbe32d9a5369e6/Medicinal-Grasses-of-India-Volume-I.pdf
+
+* Grasses as an Immense Source of Pharmacologically Active Medicinal Properties
+Link: https://web.archive.org/web/20220303153527id_/https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/PINSA_2020_Art65.pdf
+
+* Other reliable resources found in reliable sites
