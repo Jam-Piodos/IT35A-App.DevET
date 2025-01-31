@@ -1,0 +1,35 @@
+GRASPS: Literature Review of XML Integration & Web Services
+___________________________________________________________________________________________________________
+Goals
+
+* Evaluate and understand how XML and Web services facilitate data integration and interoperability 
+in bioinformatics and distributed systems.
+* Compare different approaches for structuring and exchanging data.
+* Analyze best practices for implementing XML and Web services for system integration
+* Assess strengths and limitations of each technology
+___________________________________________________________________________________________________________
+Roles
+
+* Act as technology analysts examining integration solutions
+* Study implementation patterns and architectural decisions
+* Evaluate technical specifications and standards
+* Review real-world applications and use cases
+___________________________________________________________________________________________________________
+Audience
+
+* Software architects and developers working on distributed systems
+* Bioinformatics researchers and database administrators
+* System integrators and solution architects
+* Technical decision-makers evaluating integration technologies
+___________________________________________________________________________________________________________
+Situation
+
+* Organizations need to integrate heterogeneous systems and data sources
+* Growing volumes of biological and scientific data require standardized exchange formats
+* Web services and XML are emerging as key integration technologies
+* Need to assess capabilities and limitations of different integration approaches
+___________________________________________________________________________________________________________
+Products/Performance
+
+A presentation was attached in the Repository but you can directy see and download it with this link:
+https://github.com/Jam-Piodos/IT35A-App.DevET/blob/main/xml_vs_web_services.pptx
