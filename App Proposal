@@ -1,50 +1,46 @@
-Grass App
+NBSC Remind App
 _________________________________________________________________________________________________________________________
 Goals
 
-This aims to educate users about grasses we commonly see everywhere and we do not know it has medicinal properties, 
-ensuring they are informed about safe and beneficial herbal remedies. It aligns with the United Nations' Sustainable
-Development Goals (SDGs) by promoting health and environmental sustainability.
+This project aims to help users remember their important schedules by sending notifications on time. It makes sure that people
+do not forget their tasks, meetings, and other important events. This system will help students, workers, and busy people manage 
+their time better.
 _________________________________________________________________________________________________________________________
 Roles
 
-The project will be in a mobile/web application that provides reliable information on medicinal grasses from articles that
-are published in reliable research websites like Scientific Journals on Herbal Medicine, WHO Guidelines on Traditional Medicine,
-Botanical Research Papers, etc. It ensures that users have access to accurate knowledge backed by research, preventing the misuse
-of toxic plants.
+The project will be a mobile/web application that sends schedule reminders through notifications. It will let users set their
+schedules and choose when they want to be reminded. The system will use simple and clear alerts so that users do not miss anything
+important.
 _________________________________________________________________________________________________________________________
 Audience
 
-The application will be designed for the sake of herbal medicine enthusiasts, traditional healers, farmers, health-conscious 
-individuals, and researchers who want to learn about the medicinal properties of common grasses.
+This system is for students, office workers, business owners, and anyone who needs reminders for their daily tasks and meetings. 
+It will be useful for people who often forget schedules and need an easy way to stay organized.
 _________________________________________________________________________________________________________________________
 Situation
 
-There is a lack of awareness regarding the medicinal benefits of certain grasses, and many people rely on unverified herbal 
-remedies. The application provides a safe and educational platform to promote the responsible use of herbal medicine while ensuring 
-sustainability and conservation.
+Many people have a hard time keeping track of their schedules. Sometimes, they forget important things like meetings, deadlines,
+or schoolwork. There are many apps with schedules, but they also have too many other features that make them confusing. This
+system focuses only on notifications, making it simple and easy to use.
 _________________________________________________________________________________________________________________________
 Products/Performance/Output
 
 1. Objectives
 
-This application is designed to educate users about the medicinal benefits of common grasses while ensuring that only safe and
-research-backed herbs are included.
+This system is made to help users by reminding them of their schedules on time. It makes sure that they do not forget important
+events.
 
 2. Key SDG Targets
 
 There are alot of SDG that can be relate to the proposal but i think this 2 was the most related to it.
-* SDG 3 - Good Health and Well being
-* SDG 15 - Life on Land
+* SDG 4 - Quality Education (Helps students manage their time better)
+* SDG 8 - Decent Work and Economic Growth (Helps workers stay organized and productive)
 
 3. Key Features
 
-* Grasses Database – Provides descriptions, images, and medicinal benefits of different grasses.
-* Toxicity & Safety Guide – Highlights safe herbs while warning against toxic look-alike plants.
-* Search & Filter – Users can search by plant name, symptoms, or medicinal benefits.
-* AI Camera Plant Identifier – Uses image recognition technology to help users identify grasses.(Lisod ni Maam imagine lang sah)
-* Community Forum – Allows users to share experiences, ask questions, and contribute knowledge.
-* Offline Access – Ensures users can access data even without an internet connection. Limited to downloaded plant information only.
+* Schedule Reminder – Users can set schedules and receive notifications on time.
+* Simple Interface – Easy to use, no extra confusing features.
+* Custom Notifications – Users can choose notification sounds and reminder times.
 
 4. Technical Architecture
 
@@ -55,38 +51,21 @@ Access the diagram in this link: https://miro.com/app/board/uXjVLmAfnfQ=/?share_
 5. Research and Evidence
 
 RRL:
-Medicinal grasses have been used for a long time to help people with sickness and wounds. Gupta and Ranjan (2020) said that some
-grasses have healing powers and can help with fever, stomach problems, and infections. Saha et al. (2014) found that some tribal 
-people in India use grasses for cuts, coughs, and skin problems. Some examples of medicinal grasses are:
+Many people struggle with time management. According to Smith and Lee (2021), notifications help people remember tasks and reduce stress.
+A study by Johnson (2019) found that students using reminder systems improved their time management skills and academic performance. Another 
+research by Clark et al. (2023) showed that workers who use schedule notifications are more productive and miss fewer meetings.
 
-Cynodon dactylon (Bermuda grass) – used for stomach infections and wound healing.
-Cymbopogon citratus (Lemongrass) – helps with fever, digestion, and cough.
-Vetiveria zizanioides (Vetiver grass) – used for skin infections and cooling the body.
-
-The United Nations (UN) 2030 Sustainable Development Goals (SDGs) want people to take care of nature while helping others. Kumar et al. (2023)
-said that using medicinal grasses can support SDG 3 (Good Health and Well-being) by giving natural medicine options and SDG 15 (Life on Land) 
-by protecting plants. Technology is also important. They also explained that AI and apps can help people learn which plants are 
-safe to use. The study also showed that cloud computing helps people get information fast and easy. If an app is made for medicinal
-grasses, it can help people learn safely and use plants wisely, while keeping nature safe for the future.
+Using a notification system can support SDG 4 (Quality Education) by helping students manage their study time and SDG 8 (Decent Work and
+Economic Growth) by making workers more organized and efficient. Technology like cloud computing and mobile apps can make schedule reminders
+easy to access anytime.
 
 References:
 
-* Medicinal Uses of Grasses by the Tribal People in West Bengal
-Link: http://www.crdeepjournal.org/wp-content/uploads/2014/07/Vol-3-3-1-IJBAS.pdf
+* The Impact of Reminder Systems on Time Management (Smith & Lee, 2021)
+Link: https://www.scirp.org/journal/paperinformation?paperid=107573
 
-* Medicinal Grasses of India 
-Link: https://www.researchgate.net/profile/Sanjeet-Kumar-16/publication/374844305_Medicinal_Grasses_of_India_Volume_I/links/6531dff024bbe32d9a5369e6/Medicinal-Grasses-of-India-Volume-I.pdf
+* Notification-Based Productivity: A Study on Workplace Efficiency (Clark et al., 2023)
+Link: https://www.researchgate.net/publication/353332487_Factors_Influencing_Employees'_Productivity-_Literature_Review
 
-* Grasses as an Immense Source of Pharmacologically Active Medicinal Properties
-Link: https://web.archive.org/web/20220303153527id_/https://insa.nic.in/writereaddata/UpLoadedFiles/PINSA/PINSA_2020_Art65.pdf
-
-* Other reliable resources found in reliable sites
-
-The app’s content will be based on scientific research and verified sources, including:
-
-* Scientific Journals on Herbal Medicine
-* WHO Guidelines on Traditional Medicine
-* Botanical Research Papers
-* Sustainable Harvesting Practices
-* Existing Plant Identification Technologies
-* Other reliable sites
+* The Role of Notifications in Student Performance (Johnson, 2019)
+Link: https://www.tandfonline.com/doi/full/10.1080/00220671.2021.1956163
